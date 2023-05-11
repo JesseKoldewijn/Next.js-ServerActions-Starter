@@ -22,14 +22,14 @@ const ServerActionCall = () => {
         This Server Action uses the{" "}
         <a
           href="https://github.com/pingdotgg/zact"
-          className="text-purple-500 transition-all duration-500 hover:text-purple-400"
+          className="text-red-500 transition-all duration-500 hover:text-red-400"
         >
           Zact library
         </a>{" "}
         which is made by{" "}
         <a
           href="https://ping.gg"
-          className="text-purple-500 transition-all duration-500 hover:text-purple-400"
+          className="text-red-500 transition-all duration-500 hover:text-red-400"
         >
           Ping Labs
         </a>
